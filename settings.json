@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ethergrave.aternos.me",
-    "port": 22321,
-    "version": "1.21.1",
+    "ip": "BedDuskVereth.aternos.me",
+    "port": 51753,
+    "version": "1.26.20",
     "try-creative": false
   },
   "position": {
